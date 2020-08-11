@@ -1,0 +1,3 @@
+[submodule "quickstart"]
+	path = quickstart
+	url = https://github.com/syncfusion/ej2-quickstart.git
